@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Project for 
+test project for "the data scientist's toolbox" on coursera
